@@ -4,7 +4,7 @@
 
 -Ingresar al index.html para acceder a las páginas solicitadas. 
 
--Las páginas utilizan el mismo css y el mismo archivo js para obtener las funciones de que requieren. 
+-Las páginas utilizan el mismo css y el mismo archivo js para obtener las funciones requeridas (cada pregunta utiliza una función distinta). 
 
 Acceso web desde:
 
